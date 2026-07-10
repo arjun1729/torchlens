@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use lenstorch, please cite it as below."
+title: "lenstorch: differentiable gravitational lensing in PyTorch"
+authors:
+  - family-names: "YOUR-SURNAME"
+    given-names: "YOUR-NAME"
+version: 0.1.0
+date-released: 2026-07-10
+license: MIT
+repository-code: "https://github.com/YOURUSERNAME/lenstorch"
+keywords:
+  - gravitational lensing
+  - simulation-based inference
+  - pytorch
